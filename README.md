@@ -1,6 +1,6 @@
 ![Yomigana](Images/image_97e5324d.jpg)
 
-# Yomigana
+# Yomigana Showcase
 
 **Japanese reading support for Minecraft: Java Edition.** Yomigana is a client-side Fabric mod for Minecraft 26.2. It places small kana readings (furigana) above Japanese words, so you can see how to pronounce a word without replacing its kanji.
 
