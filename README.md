@@ -1,3 +1,5 @@
+![Yomigana](Images/image_97e5324d.jpg)
+
 # Yomigana
 
 **Japanese reading support for Minecraft: Java Edition.** Yomigana is a client-side Fabric mod for Minecraft 26.2. It places small kana readings (furigana) above Japanese words, so you can see how to pronounce a word without replacing its kanji.
@@ -5,10 +7,19 @@
 For example, a sword named **剣** can show **けん** above it and **ken** below it. With the Japanese Learning Pack's bilingual option, an item can also keep its English name alongside the Japanese.
 
 ## What it looks like in play
+![Inventory](Images/3.png)
 
 - **Inventory:** Hover over an item or a Creative tab to see its readings. You can still search for an item in English, such as `diamond sword`, while playing in Japanese.
+  ![Searching in English](Images/4.png)
+
 - **Chat, signs, and books:** Add a reading with `§^剣(けん)`. In supported displays, the reader sees the kanji and its pronunciation instead of the markup.
+  ![Chat, Signs & Books](Images/5.png)
+![Alt text](Images/6.png)
+
 - **Reading preferences:** Place furigana above or below the base text, replace the base with its reading, or hide the reading. In Above mode, an optional romaji line helps learners who are still getting comfortable with kana.
+![Alt text](Images/7.png)
+![Alt text](Images/8.png)
+
 - **Writing:** Kana conversion lets you turn roman letters such as `ken` into **けん** or **ケン** using a standard English keyboard.
 
 Yomigana displays readings supplied by the text or resource pack. It does not guess the pronunciation of arbitrary kanji or automatically translate player-written messages.
